@@ -1,0 +1,394 @@
+[
+  {
+    "id": "539eac0b-4a39-47de-91c7-7e0630fcd8d6",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "something is cool",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " into ",
+        "userDefined": false
+      },
+      {
+        "text": "french",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549145375
+  },
+  {
+    "id": "02cdd634-c7a4-46ea-b710-8f1ae6ecc8ac",
+    "data": [
+      {
+        "text": "tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "it is a good day",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "japanese",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549145375
+  },
+  {
+    "id": "a0b23aca-a17a-4ffe-91f2-7706cf69a00d",
+    "data": [
+      {
+        "text": "translate the phrase ",
+        "userDefined": false
+      },
+      {
+        "text": "who am i",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "german",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549132628
+  },
+  {
+    "id": "e3a0e0b1-dc09-470c-b4d3-d7f7945157a9",
+    "data": [
+      {
+        "text": "tell me how to say ",
+        "userDefined": false
+      },
+      {
+        "text": "whats the weather",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "chinese",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549132628
+  },
+  {
+    "id": "0ce1b733-dfce-406c-bd89-44868b77e1d8",
+    "data": [
+      {
+        "text": "tell me how to say ",
+        "userDefined": false
+      },
+      {
+        "text": "goodnight moon",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "tagalog",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549132628
+  },
+  {
+    "id": "5905dea7-b732-4295-ba06-31b938b634af",
+    "data": [
+      {
+        "text": "how do you say ",
+        "userDefined": false
+      },
+      {
+        "text": "goodbye",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "spanish",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549086852
+  },
+  {
+    "id": "5a107799-f8ca-4ed6-a34c-74c4784ac70b",
+    "data": [
+      {
+        "text": "how do you say ",
+        "userDefined": false
+      },
+      {
+        "text": "hello",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "dutch",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549086852
+  },
+  {
+    "id": "b738167b-ebac-466c-aed6-107984274520",
+    "data": [
+      {
+        "text": "how do i say ",
+        "userDefined": false
+      },
+      {
+        "text": "cats and dogs",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "russian",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549086852
+  },
+  {
+    "id": "308f2af4-1e67-4d00-b7fc-8a7d89b14df8",
+    "data": [
+      {
+        "text": "how do i say ",
+        "userDefined": false
+      },
+      {
+        "text": "water",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "french",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549086852
+  },
+  {
+    "id": "565b12b2-7002-4657-a5f8-9162ab725909",
+    "data": [
+      {
+        "text": "how do I say ",
+        "userDefined": false
+      },
+      {
+        "text": "tree",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "german",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549086852
+  },
+  {
+    "id": "f2ec6a41-c0af-4f3f-ba84-9b6d971feb78",
+    "data": [
+      {
+        "text": "translate the phrase ",
+        "userDefined": false
+      },
+      {
+        "text": "how are you",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " into ",
+        "userDefined": false
+      },
+      {
+        "text": "chinese",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549086852
+  },
+  {
+    "id": "ab6738a7-8384-4a49-872d-0e3a89699633",
+    "data": [
+      {
+        "text": "translate ",
+        "userDefined": false
+      },
+      {
+        "text": "the sky is green",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "japanese",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549086852
+  },
+  {
+    "id": "d5e1ba59-f7c9-41a6-b450-d6107db82826",
+    "data": [
+      {
+        "text": "translate ",
+        "userDefined": false
+      },
+      {
+        "text": "cat",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " into ",
+        "userDefined": false
+      },
+      {
+        "text": "spanish",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549086852
+  },
+  {
+    "id": "882363fd-af8f-4089-b22e-dc7388ade913",
+    "data": [
+      {
+        "text": "translate ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "alias": "phrase",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "french",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549086852
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "id": "bc09d7b5-a79e-4fbf-943e-cccb7078592d",
+  "name": "translation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "translation-inputs",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "169c385e-fa3c-409c-9410-ebf579c37af1",
+          "required": true,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To what language should I translate it?"
+            },
+            {
+              "lang": "en",
+              "value": "Into what language?"
+            },
+            {
+              "lang": "en",
+              "value": "What language did you want?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "242d62ef-e1b4-4965-b8f8-a7ba353fbcac",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "phrase",
+          "value": "$phrase",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What word or phrase did you want translated?"
+            },
+            {
+              "lang": "en",
+              "value": "Can you repeat the word or phrase?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thinking..."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549145375,
+  "fallbackIntent": false,
+  "events": []
+}

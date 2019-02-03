@@ -1,0 +1,36 @@
+{
+  "id": "69b3f2ae-8087-4504-9b6d-00c7db93584f",
+  "name": "repeat",
+  "auto": true,
+  "contexts": [
+    "translation-inputs"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "translation-inputs",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You wanted to translate \"#translation-inputs.phrase\" to \"#translation-inputs.language\""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549147520,
+  "fallbackIntent": false,
+  "events": []
+}

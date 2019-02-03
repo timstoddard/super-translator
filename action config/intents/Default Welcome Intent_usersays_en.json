@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a0582c89-d118-467f-b26f-4439cb652b3e",
+    "data": [
+      {
+        "text": "Talk to Super Translator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549174582
+  },
+  {
+    "id": "f3ab689a-154b-49be-8f7f-91fdab10b915",
+    "data": [
+      {
+        "text": "Open Super Translator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549174582
+  }
+]

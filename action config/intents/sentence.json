@@ -1,0 +1,28 @@
+{
+  "id": "96d2852e-58a3-4f6e-85e5-64a1f99ee7b0",
+  "name": "sentence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thinking..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549154121,
+  "fallbackIntent": false,
+  "events": []
+}
